@@ -1,0 +1,25 @@
+关于u盘音乐有重名的无法播放的文件
+Removable Disk Cleaner.app
+
+关于git可视化工具
+Sourcetree.app
+
+关于鼠标
+Mos.app
+Scroll Reverser.app
+
+关于数据库连接
+Dbeaver.app
+
+关于Liunx文件传输
+FileZilla.app
+
+关于文本编辑
+CotEditor.app
+
+关于MarkDown文本编辑器
+MacDown.app
+Haroopad.app
+
+关于截图
+Snipaste.app
